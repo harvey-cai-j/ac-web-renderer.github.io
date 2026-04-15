@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_1js_ac_react_mobile_card_renderer=self.webpackChunk_1js_ac_react_mobile_card_renderer||[]).push([[586],{9616:(e,r,_)=>{_.d(r,{U:()=>n,u:()=>s});var a=_(1124);const c=a.createContext(void 0),t={},n=c.Provider,s=()=>{var e;return null!==(e=a.useContext(c))&&void 0!==e?e:t}}}]);
